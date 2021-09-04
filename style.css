@@ -1,0 +1,83 @@
+
+p
+{   
+    background-color: darkorange;
+color: rgb(0, 140, 255);font-size:x-large;
+}
+h3
+{
+background-color: darkgreen;
+color:yellow ;
+font-size:x-large;
+}
+h4
+{
+background-color:red ;
+color:gold ;
+}
+h2{
+background-color: indigo;
+color: lawngreen;
+}
+h5{
+background-color:silver;
+color: olive;
+}
+pre{
+background-color: orangered;
+color: purple;font-size: x-large;
+}
+h6{
+background-color: violet;
+color: lightseagreen;
+}
+hr{
+background-color:silver;
+height: 5px; 
+}
+abbr{
+background-color:silver;
+color: red;
+}
+img{
+height: 100px;
+width:100px;
+}
+
+
+h1
+{
+    background-color:silver;
+    color:rgb(255, 0, 0); 
+}  
+
+h2{
+background-color:silver ;
+color: blueviolet;
+}
+
+
+.ose{
+    background-color: forestgreen;
+color: fuchsia;
+border:2px solid silver ;
+margin: 20px;
+padding: 20px;
+
+.s
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
